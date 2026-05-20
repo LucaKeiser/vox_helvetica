@@ -1,6 +1,6 @@
 # Vox Helvetica Labs – Statische Beispiel-Website
 
-**Eine statische Demo-Website als Beispiel für das vox helvetica lab**  
+**Eine statische Demo-Website als Beispiel für das vox helvetica lab-Projekt**  
 
 ---
 
