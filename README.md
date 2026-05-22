@@ -19,7 +19,7 @@ Die Website ist **vollständig statisch** und kann auf jedem Hosting-Dienst für
 
 ## 🚀 Live-Demo
 
-🔗 **[Zur Live-Demo](https://lucakeiser.github.io/vox_helvetica/)**
+🔗 **[Zur Live-Demo](https://lucakeiser.github.io/civitas_helvetica/)**
 
 ---
 
