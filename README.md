@@ -1,12 +1,12 @@
-# Vox Helvetica Labs – Statische Beispiel-Website
+# civitas helvetica Labs – Statische Beispiel-Website
 
-**Eine statische Demo-Website als Beispiel für das vox helvetica lab-Projekt**  
+**Eine statische Demo-Website als Beispiel für das civitas helvetica lab-Projekt**  
 
 ---
 
 ## 📌 Über das Projekt
 
-Diese Website dient als **Beispielprojekt für Vox Helvetica Labs** und zeigt, wie statische Webseiten mit **HTML, CSS, JavaScript und SVG** umgesetzt werden können. Sie enthält:
+Diese Website dient als **Beispielprojekt für civitas helvetica Labs** und zeigt, wie statische Webseiten mit **HTML, CSS, JavaScript und SVG** umgesetzt werden können. Sie enthält:
 
 - **Interaktive Karten** der Schweiz (basierend auf SVG und GeoJSON-Daten).
 - **Datenvisualisierungen** (z. B. Pfade, Gemeinden, oder andere geographische Daten).
